@@ -1,7 +1,3 @@
-<h1 align="center">Hi, I'm Diego</h1>
-<h3 align="center">A passionate systems engineering student from Costa Rica</h3>
-
-
 ![Header](github-header-image.png)
 
 
