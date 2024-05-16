@@ -1,4 +1,4 @@
-<h1 align="center">![Header](github-header-imagen.png)</h1>
+![Header](github-header-imagen.png)
 <h3 align="center">A passionate systems engineering student from Costa Rica</h3>
 
 
