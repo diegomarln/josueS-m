@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Diego Marín</h1>
+<h1 align="center">Hi, I'm Diego Marín</h1>
 <h3 align="center">A passionate systems engineering student from Costa Rica</h3>
+
+![Header](github-header-image.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
