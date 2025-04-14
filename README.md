@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Josué%20Marín&reversal=false&textBg=false&descAlign=50&animation=twinkling)
+
 # 💫 About Me:
 Hello! I am Josue, a passionate student engineering student of 23 years, originally from Costa Rica. I consider myself a proactive person, eager to learn, grow professionally and provide value in any development team. I am open to new opportunities, collaborative projects or internships that allow me to continue strengthening my skills and experience.
 
