@@ -71,10 +71,20 @@ Hello! I'm Josué, a passionate Software Engineering student. I am a proactive a
 
 ---
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats</h2>
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Stats
+</h2>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueS-m&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <a href="https://github.com/josueS-m">
+  <img src="https://github-readme-stats.vercel.app/api?username=josueS-m&show_icons=true&theme=merko&hide_border=false"/>
+</a>
+  <br/>
+  <a href="https://github.com/josueS-m">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueS-m&layout=compact&theme=merko&hide_border=false"/>
+  </a>
 </p>
+
 
 ---
 
