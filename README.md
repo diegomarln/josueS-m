@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Josué%20Marín&reversal=false&textBg=false&descAlign=50&animation=twinkling" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Diego%20Marín&reversal=false&textBg=false&descAlign=50&animation=twinkling" width="800"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   💫 About Me
 </h2>
 
-Hello! I'm Josué, a passionate Software Engineering student. I am a proactive and motivated person, always eager to learn, grow professionally and contribute to development teams. I'm currently open to new opportunities, collaborative projects, and internships that will allow me to strengthen my skills and gain valuable experience.
+Hello! I'm Diego, a passionate Software Engineering student. I am a proactive and motivated person, always eager to learn, grow professionally and contribute to development teams. I'm currently open to new opportunities, collaborative projects, and internships that will allow me to strengthen my skills and gain valuable experience.
 
 ---
 
